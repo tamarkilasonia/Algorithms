@@ -16,6 +16,7 @@ public class QuickSort {
         int pivot = array[high];
         int i = (low - 1);
 
+
         for (int j = low; j < high; j++) {
             if (array[j] <= pivot) {
                 i++;
@@ -31,6 +32,7 @@ public class QuickSort {
 
         return i + 1;
     }
+    
 
     public static void main(String[] args) {
         int[] array = {10, 7, 8, 9, 1, 5};
