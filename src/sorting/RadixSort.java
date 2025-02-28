@@ -15,7 +15,6 @@ public class RadixSort {
         return max;
     }
 
-    
     // Counting sort for a specific digit represented by exp (1s, 10s, 100s, ...)
     public static void countingSort(int[] array, int exp) {
         int n = array.length;
