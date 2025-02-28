@@ -48,4 +48,5 @@ public class ExponentialSearch {
             System.out.println("Element found at index: " + result);
         }
     }
+
 }
