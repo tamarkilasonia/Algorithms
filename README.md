@@ -89,3 +89,104 @@ java main.Main
 
 ##  Contributions
 Contributions are always welcome! If you have improvements or new algorithms to add, feel free to submit a pull request.
+
+
+
+Algorithm Collection in Java
+
+This project is a comprehensive collection of sorting, searching, graph, dynamic programming, greedy, divide and conquer, backtracking, mathematical, and string algorithms implemented in Java. It serves as a structured way to reinforce algorithmic concepts and coding skills.
+
+📂 Implemented Algorithms
+
+🔹 Sorting Algorithms
+
+Selection Sort – Finds the minimum element and places it in order.
+
+Insertion Sort – Builds the sorted array one item at a time.
+
+Merge Sort – A divide-and-conquer sorting algorithm.
+
+Quick Sort – Efficient sorting using partitioning.
+
+Heap Sort – Uses a binary heap for sorting.
+
+Radix Sort – Sorts numbers digit by digit.
+
+Counting Sort – Non-comparative integer sorting.
+
+🔹 Searching Algorithms
+
+Linear Search – Sequentially searches for an element.
+
+Binary Search – Efficient search in sorted arrays.
+
+🔹 Graph Algorithms
+
+Floyd-Warshall Algorithm – Finds shortest paths in a weighted graph.
+
+Prim’s MST Algorithm – Constructs a minimum spanning tree.
+
+Kruskal’s MST Algorithm – Another approach to minimum spanning tree.
+
+Hamiltonian Cycle – Finds a cycle that visits each vertex once.
+
+🔹 Dynamic Programming
+
+Knapsack Problem – Optimized resource allocation.
+
+Longest Common Subsequence – Finds the longest sequence in two strings.
+
+Fibonacci Sequence – Computes Fibonacci numbers using DP.
+
+🔹 Greedy Algorithms
+
+Huffman Coding – Data compression technique.
+
+Activity Selection – Selects maximum number of activities.
+
+🔹 Divide and Conquer Algorithms
+
+Merge Sort – Efficient sorting using recursion.
+
+Quick Sort – Partitioning-based sorting.
+
+🔹 Backtracking Algorithms
+
+N-Queens Problem – Places N queens on a chessboard.
+
+Sudoku Solver – Solves a given Sudoku puzzle.
+
+🔹 Mathematical Algorithms
+
+Greatest Common Divisor (GCD) – Finds the largest divisor of two numbers.
+
+Sieve of Eratosthenes – Efficient prime number generation.
+
+🔹 String Algorithms
+
+KMP Algorithm – Pattern matching in strings.
+
+Rabin-Karp Algorithm – Hash-based string search.
+
+▶️ How to Run the Project
+
+🛠 Prerequisites
+
+Java Development Kit (JDK) 8 or later
+
+A Java IDE (IntelliJ IDEA, Eclipse, or VS Code) or command-line tools
+
+🏃 Running the Code
+
+To compile and run the project, navigate to the /src directory and execute:
+
+javac main/AlgorithmRunner.java
+java main.AlgorithmRunner
+
+🤝 Contributions
+
+Contributions are always welcome! If you have improvements or new algorithms to add, feel free to submit a pull request.
+
+
+
+
