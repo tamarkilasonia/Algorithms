@@ -12,6 +12,7 @@ public class MergeSort {
         int[] L = new int[n1];
         int[] R = new int[n2];
 
+        
         System.arraycopy(arr, left, L, 0, n1);
         System.arraycopy(arr, mid + 1, R, 0, n2);
 
