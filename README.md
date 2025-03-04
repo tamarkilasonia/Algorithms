@@ -42,7 +42,7 @@ AlgorithmProject
 ✔️ **QuickSort.java** – Quick Sort Implementation  
 ✔️ **HeapSort.java** – Heap Sort Implementation  
 ✔️ **RadixSort.java** – Radix Sort Implementation  
-✔️ **CountingSort.java** – Counting Sort Implementation  
+ **CountingSort.java** – Counting Sort Implementation  
 
 ###  Graph Algorithms
 **FloydWarshall.java** – Floyd-Warshall Algorithm (Shortest Paths)  
