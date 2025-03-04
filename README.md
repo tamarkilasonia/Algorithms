@@ -45,10 +45,10 @@ AlgorithmProject
 ✔️ **CountingSort.java** – Counting Sort Implementation  
 
 ###  Graph Algorithms
-✔️ **FloydWarshall.java** – Floyd-Warshall Algorithm (Shortest Paths)  
-✔️ **PrimMST.java** – Prim’s Minimum Spanning Tree Algorithm  
-✔️ **KruskalMST.java** – Kruskal’s Minimum Spanning Tree Algorithm  
-✔️ **HamiltonianCycle.java** – Hamiltonian Cycle Problem Solver  
+**FloydWarshall.java** – Floyd-Warshall Algorithm (Shortest Paths)  
+ **PrimMST.java** – Prim’s Minimum Spanning Tree Algorithm  
+ **KruskalMST.java** – Kruskal’s Minimum Spanning Tree Algorithm  
+ **HamiltonianCycle.java** – Hamiltonian Cycle Problem Solver  
 
 ### Search Algorithms
 **LinearSearch.java** – Linear Search Algorithm  
