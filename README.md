@@ -44,7 +44,7 @@ AlgorithmProject
 ✔️ **RadixSort.java** – Radix Sort Implementation  
 ✔️ **CountingSort.java** – Counting Sort Implementation  
 
-### 🔹 Graph Algorithms
+###  Graph Algorithms
 ✔️ **FloydWarshall.java** – Floyd-Warshall Algorithm (Shortest Paths)  
 ✔️ **PrimMST.java** – Prim’s Minimum Spanning Tree Algorithm  
 ✔️ **KruskalMST.java** – Kruskal’s Minimum Spanning Tree Algorithm  
