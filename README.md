@@ -50,7 +50,7 @@ AlgorithmProject
 ✔️ **KruskalMST.java** – Kruskal’s Minimum Spanning Tree Algorithm  
 ✔️ **HamiltonianCycle.java** – Hamiltonian Cycle Problem Solver  
 
-### 🔹 Search Algorithms
+### Search Algorithms
 ✔️ **LinearSearch.java** – Linear Search Algorithm  
 ✔️ **BinarySearch.java** – Binary Search Algorithm  
 
