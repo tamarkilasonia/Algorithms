@@ -73,7 +73,7 @@ AlgorithmProject
 | **Kruskal's MST** | Graph (Minimum Spanning Tree) | `O(E log V)` |
 | **Hamiltonian Cycle** | Graph (Backtracking) | `O(N!)` |
 
-## ▶How to Run the Project
+##How to Run the Project
 ###  Prerequisites
 - Java Development Kit (JDK) 8 or later
 - A Java IDE (IntelliJ IDEA, Eclipse, or VS Code) or command-line tools
