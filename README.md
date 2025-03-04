@@ -36,8 +36,8 @@ AlgorithmProject
 ##  Implemented Algorithms
 
 ###  Sorting Algorithms
-✔️ **SelectionSort.java** – Selection Sort Implementation  
-✔️ **InsertionSort.java** – Insertion Sort Implementation  
+**SelectionSort.java** – Selection Sort Implementation  
+**InsertionSort.java** – Insertion Sort Implementation  
 **MergeSort.java** – Merge Sort Implementation  
 **QuickSort.java** – Quick Sort Implementation  
 **HeapSort.java** – Heap Sort Implementation  
