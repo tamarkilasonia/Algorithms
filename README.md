@@ -33,7 +33,7 @@ AlgorithmProject
 
 ---
 
-## ✨ Implemented Algorithms
+##  Implemented Algorithms
 
 ### 🔹 Sorting Algorithms
 ✔️ **SelectionSort.java** – Selection Sort Implementation  
@@ -55,7 +55,7 @@ AlgorithmProject
 ✔️ **BinarySearch.java** – Binary Search Algorithm  
 
 ---
-## ✅ Summary
+##  Summary
 
 | Algorithm | Category | Complexity |
 | --- | --- | --- |
@@ -74,11 +74,11 @@ AlgorithmProject
 | **Hamiltonian Cycle** | Graph (Backtracking) | `O(N!)` |
 
 ## ▶How to Run the Project
-### 🛠 Prerequisites
+###  Prerequisites
 - Java Development Kit (JDK) 8 or later
 - A Java IDE (IntelliJ IDEA, Eclipse, or VS Code) or command-line tools
 
-### 🏃 Running the Code
+###  Running the Code
 To compile and run the project, navigate to the `/src` directory and execute:
 ```sh
 javac main/Main.java
