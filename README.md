@@ -38,10 +38,10 @@ AlgorithmProject
 ###  Sorting Algorithms
 ✔️ **SelectionSort.java** – Selection Sort Implementation  
 ✔️ **InsertionSort.java** – Insertion Sort Implementation  
-✔️ **MergeSort.java** – Merge Sort Implementation  
-✔️ **QuickSort.java** – Quick Sort Implementation  
-✔️ **HeapSort.java** – Heap Sort Implementation  
-✔️ **RadixSort.java** – Radix Sort Implementation  
+**MergeSort.java** – Merge Sort Implementation  
+**QuickSort.java** – Quick Sort Implementation  
+**HeapSort.java** – Heap Sort Implementation  
+**RadixSort.java** – Radix Sort Implementation  
  **CountingSort.java** – Counting Sort Implementation  
 
 ###  Graph Algorithms
