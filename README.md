@@ -6,7 +6,7 @@ This project is a comprehensive collection of sorting, searching, graph, dynamic
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 AlgorithmProject
 │── /src
