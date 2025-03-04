@@ -51,8 +51,8 @@ AlgorithmProject
 ✔️ **HamiltonianCycle.java** – Hamiltonian Cycle Problem Solver  
 
 ### Search Algorithms
-✔️ **LinearSearch.java** – Linear Search Algorithm  
-✔️ **BinarySearch.java** – Binary Search Algorithm  
+**LinearSearch.java** – Linear Search Algorithm  
+**BinarySearch.java** – Binary Search Algorithm  
 
 ---
 ##  Summary
