@@ -54,6 +54,7 @@ AlgorithmProject
 **LinearSearch.java** – Linear Search Algorithm  
 **BinarySearch.java** – Binary Search Algorithm  
 
+
 ---
 ##  Summary
 
