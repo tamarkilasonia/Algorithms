@@ -31,6 +31,7 @@ AlgorithmProject
 │── README.md             # Project documentation
 ```
 
+
 ---
 
 ##  Implemented Algorithms
