@@ -87,9 +87,4 @@ javac main/Main.java
 java main.Main
 ```
 
----
-
-##  Contributions
-Contributions are always welcome! If you have improvements or new algorithms to add, feel free to submit a pull request.
-
 
